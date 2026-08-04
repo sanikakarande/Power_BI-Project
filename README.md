@@ -89,11 +89,8 @@ This project presents an interactive Sales Dashboard developed using Microsoft P
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+<img width="1375" height="743" alt="image" src="https://github.com/user-attachments/assets/73287bea-7074-47f6-9ebc-87f5b21d1222" />
 
-Example:
-
-<img width="981" height="521" alt="image" src="https://github.com/user-attachments/assets/1050eab8-02e7-44d0-9d24-8c578b44d15d" />
 
 
 ---
